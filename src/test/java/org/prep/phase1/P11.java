@@ -13,7 +13,7 @@ public class P11 {
             return "Word is Empty, Can't reverse";
         }
 
-        if(word.length() < 1){
+        if(word.length() == 1){
             return word;
         }
 
