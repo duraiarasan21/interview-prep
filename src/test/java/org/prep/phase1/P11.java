@@ -27,7 +27,7 @@ public class P11 {
         return builder.toString();
     }
 
-    public static void main (String args[]){
+    public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a String to be reverse : ");
         System.out.println("Reversed String : " + reverseWithoutBuiltinFunction(scanner.nextLine()));
