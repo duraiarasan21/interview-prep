@@ -2,7 +2,9 @@ package org.prep.phase1;
 
 import java.util.Scanner;
 
-// Reverse a string without using built-in functions.
+/**
+ * P11 : Reverse a string without using built-in functions.
+ */
 public class P11 {
 
 
